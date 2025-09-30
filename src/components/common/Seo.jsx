@@ -5,7 +5,7 @@ export default function Seo() {
   const title = "Financiamiento Corporativo (USD 2.5M–40M) | Comisionador — Moisés Chiroque Julca";
   const description =
     "Intermediación con banco belga para préstamos corporativos (USD 2.5M–40M). Enfoque en empresas de consumo masivo y productoras con activos de alto valor en garantía.";
-  const url = "https://www.tu-dominio.com/"; // cámbialo luego
+  const url = "https://alejandromcht.github.io/bancoBelga/"; // URL canónica
   const image = "/og-cover.jpg";
 
   const personLd = {
