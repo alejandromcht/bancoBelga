@@ -26,14 +26,14 @@ export default function Footer() {
           <div className="col-lg-3">
             <h6 className="fw-semibold">Contacto</h6>
             <ul className="list-unstyled text-white-50">
-              <li>Email: contacto@empresa.com</li>
-              <li>Horario: Lun–Vie 9:00–18:00</li>
+              <li>Email: correo@ejemplo.com</li>
+              <li>Horario: ---- </li>
             </ul>
           </div>
         </div>
         <hr className="border-secondary my-4" />
         <div className="d-flex flex-wrap justify-content-between small text-white-50">
-          <span>© {year} MCJ Intermediación. Todos los derechos reservados.</span>
+          <span>© {year} Moises Chiroque Julca. Todos los derechos reservados.</span>
           <a href="#" className="link-light">Política de privacidad</a>
         </div>
       </div>
