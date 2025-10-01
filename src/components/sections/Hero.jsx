@@ -38,7 +38,7 @@ export default function Hero() {
               <div className="small text-uppercase fw-semibold text-primary mb-2">Contacto directo</div>
               <h2 className="h4 fw-bold mb-1">Moisés Chiroque Julca</h2>
               <p className="text-secondary mb-3">
-                Comisionador corporativo • 11 años en BBVA (ex Gerente Agencia Chiclayo, Área de Riesgos ~5 años)
+                Licenciado en Economía • 11 años en BBVA (ex Gerente Agencia Chiclayo, Área de Riesgos ~5 años)
               </p>
               <ul className="list-unstyled mb-3">
                 <CheckItem>Evaluación crediticia corporativa</CheckItem>

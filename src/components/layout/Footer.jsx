@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="row g-4">
           <div className="col-lg-6">
             <h5 className="fw-bold">Moisés Chiroque Julca</h5>
-            <p className="text-white-50 mb-2">Comisionador corporativo</p>
+            <p className="text-white-50 mb-2">Licenciatura en Economía</p>
             <ul className="list-unstyled text-white-50">
               <li>11 años en BBVA — ex Gerente Agencia Chiclayo</li>
               <li>Área de Riesgos (~5 años)</li>
