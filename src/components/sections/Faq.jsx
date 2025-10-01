@@ -3,20 +3,20 @@ import SectionTitle from "../common/SectionTitle.jsx";
 
 const FAQ = [
   {
-    q: "¿Cuál es la tasa de interés?",
-    a: "Depende del riesgo del proyecto, el perfil financiero, la calidad de las garantías y el plazo. Se cotiza caso por caso tras el análisis del data room."
+    q: "¿Cuál es la tasa de interés - Ejemplo pregunta?",
+    a: "Respuesta"
   },
   {
-    q: "¿Financian capital de trabajo o solo activos?",
-    a: "Se pueden estructurar soluciones para CAPEX, refinanciaciones o capital de trabajo, siempre que existan garantías reales suficientes y un flujo consistente."
+    q: "¿Pregunta?",
+    a: "Respuesta"
   },
   {
     q: "¿Qué países cubren?",
-    a: "El fondeo proviene de un banco belga; la elegibilidad territorial queda sujeta a políticas de riesgo, regulaciones locales y compliance (KYC/AML)."
+    a: "Perú"
   },
   {
-    q: "¿Qué empresas no califican?",
-    a: "Microempresas, actividades prohibidas por políticas de riesgo, compañías sin estados financieros auditados o sin garantías reales adecuadas."
+    q: "¿Pregunta?",
+    a: "Respueta"
   }
 ];
 

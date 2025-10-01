@@ -13,7 +13,7 @@ export default function Hero() {
               <span className="badge text-bg-light border rounded-3">USD 2.5M – 40M</span>
             </div>
             <h1 className="display-5 fw-bold lh-tight">
-              Financiamiento mayorista para empresas con activos de alto valor
+              Financiamiento para empresas con activos de alto valor
             </h1>
             <p className="lead text-secondary mt-3">
               Intermediación con banco belga para compañías de consumo masivo y productoras con
